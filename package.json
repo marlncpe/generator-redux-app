@@ -1,6 +1,6 @@
 {
   "name": "generator-redux-app",
-  "version": "0.17.0",
+  "version": "0.0.1",
   "description": "Scaffold out a redux app",
   "license": "MIT",
   "scripts": {
@@ -22,17 +22,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chentsulin/generator-redux-app.git"
+    "url": "git+https://github.com/marlncpe/generator-redux-app.git"
   },
   "author": {
-    "name": "C. T. Lin",
-    "email": "chentsulin@gmail.com",
-    "url": "https://github.com/chentsulin"
+    "name": "Marlon Cepeda",
+    "email": "walhunters@gmail.com",
+    "url": "https://github.com/marlncpe"
   },
   "bugs": {
-    "url": "https://github.com/chentsulin/generator-redux-app/issues"
+    "url": "https://github.com/marlncpe/generator-redux-app/issues"
   },
-  "homepage": "https://github.com/chentsulin/generator-redux-app#readme",
+  "homepage": "https://github.com/marlncpe/generator-redux-app#readme",
   "devDependencies": {
     "babel-eslint": "^4.1.0",
     "eslint": "^1.3.1",
